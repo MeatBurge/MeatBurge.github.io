@@ -5,7 +5,7 @@
 
 #### 6517 Recommended system
 
-[深度学习系列（2）——Global Average Pooling是否可以替代全连接层？ - SupremeBoy - 博客园](https://www.cnblogs.com/SupremeBoy/p/12258439.html)
+[深度学习系列（2）——Global Average Pooling是否可以替代全连接层？](https://www.cnblogs.com/SupremeBoy/p/12258439.html)
 
 [Hello! · Transformers快速入门](https://transformers.run/)
 
@@ -25,7 +25,7 @@
 
 [Welcome to PyTorch Tutorials — PyTorch Tutorials 1.13.1+cu117 documentation](https://pytorch.org/tutorials/)
 
-[PyTorch教程-6：详解PyTorch中的transforms_超级超级小天才的博客-CSDN博客_pytorch transform](https://blog.csdn.net/qq_38962621/article/details/111146462)
+[PyTorch教程-6：详解PyTorch中的transforms_超级超级小天才的博客](https://blog.csdn.net/qq_38962621/article/details/111146462)
 
 [Python：next()和iter()的使用说明 - 简书](https://www.jianshu.com/p/aa6b17d303e9)
 
@@ -70,7 +70,7 @@
 
 [SDN - 随笔分类 - 山上有风景 - 博客园](https://www.cnblogs.com/ssyfj/category/1558938.html?page=1)
 
-[SDN实验（七）——Ryu基于跳数的最短路径转发算法实现_程序员小菜鸡_的博客-CSDN博客_ryu实现路径](https://blog.csdn.net/qq_41422448/article/details/127060330)
+[SDN实验（七）——Ryu基于跳数的最短路径转发算法实现_程序员小菜鸡_的博客](https://blog.csdn.net/qq_41422448/article/details/127060330)
 
 [OpenFlow是什么？OpenFlow和SDN之间是什么关系？ - 华为](https://info.support.huawei.com/info-finder/encyclopedia/zh/OpenFlow.html)
 
@@ -104,11 +104,11 @@
 
 [（3）聚类算法之DBSCAN算法 - 知乎](https://zhuanlan.zhihu.com/p/77043965)
 
-[DBSCAN聚类算法——机器学习（理论+图解+python代码）_风弦鹤的博客-CSDN博客_dbscan算法](https://blog.csdn.net/huacha__/article/details/81094891)
+[DBSCAN聚类算法——机器学习（理论+图解+python代码）_风弦鹤的博客](https://blog.csdn.net/huacha__/article/details/81094891)
 
-[[机器学习与scikit-learn-26]：算法-聚类-KMeans寻找最佳轮廓系数_51CTO博客_scikit-learn kmeans](https://blog.51cto.com/u_11299290/5144133)
+[[机器学习与scikit-learn-26]：算法-聚类-KMeans寻找最佳轮廓系数](https://blog.51cto.com/u_11299290/5144133)
 
-[(14条消息) 聚类评估算法-轮廓系数（Silhouette Coefficient ）_山坡坡上的蜗牛的博客-CSDN博客_silhouette coefficient](https://blog.csdn.net/wangxiaopeng0329/article/details/53542606)
+[(14条消息) 聚类评估算法-轮廓系数（Silhouette Coefficient ）](https://blog.csdn.net/wangxiaopeng0329/article/details/53542606)
 
 [聚类 - 3 - 轮廓系数_血影雪梦的博客-CSDN博客_轮廓系数](https://kunpeng.blog.csdn.net/article/details/51966932?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-51966932-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-51966932-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=1)
 
@@ -116,7 +116,7 @@
 
 [聚类学习-轮廓系数_远去的栀子花的博客-CSDN博客_轮廓系数](https://blog.csdn.net/u012967763/article/details/79149703?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-4-79149703-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-4-79149703-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=6)
 
-[Mutual information and Normalized Mutual information 互信息和标准化互信息-阿里云开发者社区](https://developer.aliyun.com/article/579326)
+[Mutual information and Normalized Mutual information 互信息和标准化互信息](https://developer.aliyun.com/article/579326)
 
 [机器学习中的Bias和Variance - 知乎](https://zhuanlan.zhihu.com/p/45213397)
 
