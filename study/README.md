@@ -59,7 +59,6 @@
 
 [datpnguyen/QANet-CS224N: A PyTorch implementation of QANet for SQuAD 2.0. CS224N Default Project, Stanford University, Winter 2019-2020.](https://github.com/datpnguyen/QANet-CS224N)
 
-
 #### 6709.Software Defined Networking
 
 [RYU SDN Framework — Ryubook 1.0 documentation](http://osrg.github.io/ryu-book/en/html/)
@@ -74,11 +73,11 @@
 
 [OpenFlow是什么？OpenFlow和SDN之间是什么关系？ - 华为](https://info.support.huawei.com/info-finder/encyclopedia/zh/OpenFlow.html)
 
-[P4编程理论与实践（2）—快速上手 | SDNLAB | 专注网络创新技术](https://www.sdnlab.com/22512.html)
+[P4编程理论与实践（2）—快速上手 ](https://www.sdnlab.com/22512.html)
 
-[P4语言编程详解 | SDNLAB | 专注网络创新技术](https://www.sdnlab.com/17882.html)
+[P4语言编程详解 ](https://www.sdnlab.com/17882.html)
 
-[P4编程理论与实践——理论篇 | SDNLAB | 专注网络创新技术](https://www.sdnlab.com/22466.html)
+[P4编程理论与实践——理论篇](https://www.sdnlab.com/22466.html)
 
 [PINetDalhousie/Group2---CSCI-6709](https://github.com/PINetDalhousie/Group2---CSCI-6709)
 
