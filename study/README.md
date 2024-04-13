@@ -1,7 +1,18 @@
 ### 学习编程资料链接整理
-
 ---
 [深度学习百科及面试资源 — PaddleEdu documentation](https://paddlepedia.readthedocs.io/en/latest/index.html#)
+
+#### 查找论文
+
+[IEEE Xplore](https://dal.ca.libguides.com/c.php?g=257110&p=5194119)
+
+[ACM Digital Library](https://dal.ca.libguides.com/c.php?g=257110&p=1716818)
+
+#### MarkDown
+
+[Markdown数学公式语法](https://www.jianshu.com/p/e74eb43960a1)
+
+[Markdown 基本语法](https://www.markdown.xyz/basic-syntax/)
 
 #### 6517 Recommended system
 
@@ -121,7 +132,7 @@
 
 [偏差（Bias）与方差（Variance） - 知乎](https://zhuanlan.zhihu.com/p/38853908)
 
-[平滑处理--拉普拉斯（Laplace Smoothing） | 叮当了个和谐](https://dcpnonstop.github.io/2017/11/24/%E5%B9%B3%E6%BB%91%E5%A4%84%E7%90%86-%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%EF%BC%88laplace%EF%BC%89/)
+[平滑处理--拉普拉斯（Laplace Smoothing）](https://dcpnonstop.github.io/2017/11/24/%E5%B9%B3%E6%BB%91%E5%A4%84%E7%90%86-%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%EF%BC%88laplace%EF%BC%89/)
 
 #### Machine learning
 
@@ -202,18 +213,6 @@
 [卡方检验](https://www.tongli.ink/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3%E5%8D%A1%E6%96%B9%E6%A3%80%E9%AA%8C)
 
 [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
-
-#### 查找论文
-
-[IEEE Xplore](https://dal.ca.libguides.com/c.php?g=257110&p=5194119)
-
-[ACM Digital Library](https://dal.ca.libguides.com/c.php?g=257110&p=1716818)
-
-#### MarkDown
-
-[Markdown数学公式语法](https://www.jianshu.com/p/e74eb43960a1)
-
-[Markdown 基本语法](https://www.markdown.xyz/basic-syntax/)
 
 #### DataSet
 
